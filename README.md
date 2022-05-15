@@ -1,2 +1,5 @@
 # simple_shell
-Programming a simple shell with a partner 
+
+Shell is a program that receive commands from user input to send to the exploitation system for execution.
+
+
